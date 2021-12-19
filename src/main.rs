@@ -1,8 +1,8 @@
 extern crate core;
 
 use core::utils::donwload_puzzle;
-use dayn::part1::solve_part1;
-use dayn::part2::solve_part2;
+use {{project-name}}::part1::solve_part1;
+use {{project-name}}::part2::solve_part2;
 use itertools::Itertools;
 use std::io::Error;
 
